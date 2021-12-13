@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Nabil ✨
-- 👀 I’m interested in React.js and flutter
+- 👀 I’m interested in flutter and React.js
 - 💞️ I’m currently free for new job
 - 📫 Email: michaelnabilnageeb@gmail.com
 - 👌 linkedin: https://www.linkedin.com/in/michael-nabil/
